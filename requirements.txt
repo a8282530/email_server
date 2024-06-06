@@ -1,0 +1,7 @@
+aiosmtpd
+curl_cffi
+flask
+gunicorn
+curl_cffi
+flask-cors
+flask-compress
